@@ -1,6 +1,8 @@
 # LLM-Engineering
-This is my first time learn about python, prompting, AI Engineering, and LLM Engineering
-Hello, my name is Isti. I decided to take course on LLM Engineering since February 2026, beacause I want to try being an AI Engineer and can make money online.
-In this platform, I want to show you my progress since I started my journey in LLM Engineering from day 1. 
-You can also follow my journey to started becoming LLM Engineer with our mentor Ed Donner on Udemy. 
+This is my first time learning about Python, prompting, AI Engineering, and LLM Engineering.
+
+Hello, my name is Isti. I decided to take a course in LLM Engineering in February 2026 because I want to try becoming an AI Engineer and learn how to make money online.
+
+On this platform, I want to show my progress since the beginning of my journey in LLM Engineering, starting from day one. You can also follow my journey as I learn to become an LLM Engineer with our mentor, Ed Donner, on Udemy.
+
 Let's grow together.
